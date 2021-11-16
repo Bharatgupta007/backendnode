@@ -7,7 +7,7 @@
     "build": "cd client && ng build --prod && cd .. && node ./bin/www"
   },
   "dependencies": {
-    "aws-sdk": "^2.270.1",
+    "aws-sdk": "^2.814.0",
     "bcrypt": "^2.0.1",
     "bcrypt-nodejs": "0.0.3",
     "body-parser": "^1.18.3",
